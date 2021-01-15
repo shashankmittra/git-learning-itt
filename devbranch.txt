@@ -1,3 +1,4 @@
 dev branch
 new commit
 new
+diff command
